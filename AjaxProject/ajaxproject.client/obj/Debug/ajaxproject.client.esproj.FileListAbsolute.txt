@@ -1,0 +1,2 @@
+D:\New folder\dataBinding\New folder (5)\AjaxProject\ajaxproject.client\obj\Debug\ajaxproject.client.esproj.CoreCompileInputs.cache
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\ajaxproject.client\obj\Debug\ajaxproject.client.esproj.CoreCompileInputs.cache

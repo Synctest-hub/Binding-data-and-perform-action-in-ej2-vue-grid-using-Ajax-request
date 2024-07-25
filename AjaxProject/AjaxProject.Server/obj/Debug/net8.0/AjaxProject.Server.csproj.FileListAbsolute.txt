@@ -1,0 +1,70 @@
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\spa.proxy.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\appsettings.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.exe
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.deps.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.runtimeconfig.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.pdb
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.csproj.AssemblyReference.cache
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\spa.proxy.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.AssemblyInfoInputs.cache
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.AssemblyInfo.cs
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.csproj.CoreCompileInputs.cache
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.AjaxProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.AjaxProject.Server.props
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AjaxProject.Server.props
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AjaxProject.Server.props
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\scopedcss\bundle\AjaxProject.Server.styles.css
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProj.BF815C9A.Up2Date
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\refint\AjaxProject.Server.dll
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.pdb
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.genruntimeconfig.cache
+D:\New folder\dataBinding\New folder (5)\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\ref\AjaxProject.Server.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\appsettings.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\spa.proxy.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.exe
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.deps.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.runtimeconfig.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\AjaxProject.Server.pdb
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.csproj.AssemblyReference.cache
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\spa.proxy.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.AssemblyInfoInputs.cache
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.AssemblyInfo.cs
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.csproj.CoreCompileInputs.cache
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.AjaxProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.AjaxProject.Server.props
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AjaxProject.Server.props
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AjaxProject.Server.props
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\scopedcss\bundle\AjaxProject.Server.styles.css
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProj.BF815C9A.Up2Date
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\refint\AjaxProject.Server.dll
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.pdb
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\AjaxProject.Server.genruntimeconfig.cache
+D:\New folder\dataBinding\New folder (5)\New folder\AjaxProject\AjaxProject.Server\obj\Debug\net8.0\ref\AjaxProject.Server.dll

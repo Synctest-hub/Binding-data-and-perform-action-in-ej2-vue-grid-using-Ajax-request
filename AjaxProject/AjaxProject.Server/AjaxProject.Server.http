@@ -1,0 +1,6 @@
+@AjaxProject.Server_HostAddress = http://localhost:5134
+
+GET {{AjaxProject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
